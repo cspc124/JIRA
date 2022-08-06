@@ -1,0 +1,3 @@
+#!/bin/bash
+cd /home/ubuntu/master
+sudo docker-compose up > /dev/null 2> /dev/null < /dev/null &
